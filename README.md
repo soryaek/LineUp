@@ -1,6 +1,6 @@
-# Todo-List
+# LineUP
 
-This website allows user to add items into ToDo List.
+This website allows user to add items into todo list.
 
 Run in localhost:3000
 
